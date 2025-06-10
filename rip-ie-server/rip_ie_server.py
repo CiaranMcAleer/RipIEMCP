@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import json
 import sys
-import os
 import requests
 
 # Base URL for the Rip.ie GraphQL API
